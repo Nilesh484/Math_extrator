@@ -187,4 +187,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Facebook Research for Nougat OCR
 - Django Software Foundation
 - MongoDB Inc.
-- MathJax for mathematical rendering
+- MathJax for mathematical rendering.
+
